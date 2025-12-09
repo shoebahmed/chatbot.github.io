@@ -1,0 +1,19 @@
+{
+  "botName": "Customer Support Bot",
+  "botAvatar": "💬",
+  "userAvatar": "👤",
+  "placeholder": "How can we help you today?",
+  "welcomeMessage": "Hello! Welcome to Customer Support. I'm here to assist you.",
+  "theme": {
+    "primary": "#10b981",
+    "background": "#f9fafb",
+    "textColor": "#111827"
+  },
+  "quickSuggestions": [
+    { "text": "What are your business hours?", "icon": "🕒" },
+    { "text": "How do I reset my password?", "icon": "🔐" },
+    { "text": "Contact customer service", "icon": "📞" },
+    { "text": "Track my order", "icon": "📦" },
+    { "text": "Return policy", "icon": "↩️" }
+  ]
+}
