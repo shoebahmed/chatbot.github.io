@@ -1,12 +1,18 @@
 {
-  "botName": "MazeQube Support",
+  "botName": "AI Assistant",
   "botAvatar": "🤖",
   "userAvatar": "👤",
   "placeholder": "Type your message here...",
-  "welcomeMessage": "Hello! I'm your AI assistant. How can I help?",
+  "welcomeMessage": "Hello! I'm your AI assistant. How can I help you today?",
   "theme": {
-    "primary": "#00FF00",
-    "background": "#00FF00",
+    "primary": "#667eea",
+    "background": "#ffffff",
     "textColor": "#1f2937"
-  }
+  },
+  "showQuickSuggestions": true,
+  "autoOpen": false,
+  "showTimestamps": true,
+  "maxMessageLength": 1000,
+  "typingIndicator": true,
+  "mobileBreakpoint": 768
 }

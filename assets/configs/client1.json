@@ -1,7 +1,7 @@
 {
   "botName": "MathBot Pro",
   "botAvatar": "🧮",
-  "userAvatar": "👨‍💼",
+  "userAvatar": "👨‍🎓",
   "placeholder": "Ask me any math question...",
   "welcomeMessage": "Hello! I'm MathBot Pro, your expert mathematics assistant. I can help with calculations, formulas, and math concepts!",
   "theme": {
@@ -15,5 +15,11 @@
     { "text": "What is the derivative of x³?", "icon": "📈" },
     { "text": "Explain Pythagorean theorem", "icon": "📐" },
     { "text": "Convert 150 cm to inches", "icon": "📏" }
-  ]
+  ],
+  "showQuickSuggestions": true,
+  "autoOpen": false,
+  "showTimestamps": true,
+  "maxMessageLength": 1000,
+  "typingIndicator": true,
+  "mobileBreakpoint": 768
 }

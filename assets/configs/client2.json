@@ -1,12 +1,12 @@
 {
-  "botName": "Customer Support Bot",
+  "botName": "Customer Support",
   "botAvatar": "💬",
   "userAvatar": "👤",
   "placeholder": "How can we help you today?",
-  "welcomeMessage": "Hello! Welcome to Customer Support. I'm here to assist you.",
+  "welcomeMessage": "Hello! Welcome to Customer Support. I'm here to assist you with any questions or issues.",
   "theme": {
     "primary": "#10b981",
-    "background": "#f9fafb",
+    "background": "#ffffff",
     "textColor": "#111827"
   },
   "quickSuggestions": [
@@ -15,5 +15,11 @@
     { "text": "Contact customer service", "icon": "📞" },
     { "text": "Track my order", "icon": "📦" },
     { "text": "Return policy", "icon": "↩️" }
-  ]
+  ],
+  "showQuickSuggestions": true,
+  "autoOpen": false,
+  "showTimestamps": true,
+  "maxMessageLength": 1000,
+  "typingIndicator": true,
+  "mobileBreakpoint": 768
 }
