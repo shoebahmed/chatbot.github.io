@@ -11,3 +11,5 @@
     document.body.appendChild(script);
   });
 })();
+
+<app-root></app-root>
