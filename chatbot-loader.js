@@ -11,7 +11,7 @@
    // document.body.appendChild(script);
 
     script.onload = () => {
-    const el = document.createElement('mazeqube-chat');
+    const el = document.createElement('app-route');
     document.body.appendChild(el);
   };
 
