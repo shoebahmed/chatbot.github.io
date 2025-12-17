@@ -3,7 +3,7 @@
   window.__MAZEQUBE_CHAT_LOADED__ = true;
 
   const script = document.createElement('script');
-  script.src = 'chatbot-loader.js';
+  script.src = 'https://chatbot.mazeqube.com/chatbot-loader.js';
   script.async = true;
 
   script.onload = () => {
