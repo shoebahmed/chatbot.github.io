@@ -8,13 +8,6 @@
     const script = document.createElement('script');
     script.type = 'module';
     script.src = src;
-   // document.body.appendChild(script);
-
-    script.onload = () => {
-    const el = document.createElement('app-route');
-    document.body.appendChild(el);
-  };
-
   document.head.appendChild(script);
   });
 })();
